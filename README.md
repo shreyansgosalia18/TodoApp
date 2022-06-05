@@ -34,13 +34,13 @@ Demo of the functionalities of the project.
 
 ![Add Task](https://user-images.githubusercontent.com/30149966/172055256-a1341568-df2e-478e-95c1-53d8810d1261.PNG)
 
-3) Update tasks
-
-![Update task](https://user-images.githubusercontent.com/30149966/172055296-afe4e446-76d4-4a27-9f51-1ce53faff2fc.PNG)
-
-4) Read all tasks
+3) Read all tasks
 
 ![All task tab](https://user-images.githubusercontent.com/30149966/172055310-07b2422e-29fd-41fd-9587-9c64859bfd10.PNG)
+
+4) Update tasks
+
+![Update task](https://user-images.githubusercontent.com/30149966/172055296-afe4e446-76d4-4a27-9f51-1ce53faff2fc.PNG)
 
 5) Delete tasks
 
@@ -53,6 +53,3 @@ Demo of the functionalities of the project.
 7) List of incomplete tasks
 
 ![Incomplete Task Tab](https://user-images.githubusercontent.com/30149966/172055389-6ca32a2c-b959-4d05-84b3-3511160d0159.PNG)
-
-
-
