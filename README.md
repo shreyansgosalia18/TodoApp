@@ -1,29 +1,18 @@
 # React Todo App.
 
-SVG for CheckBox: [mentioned in the video]
+This is a to-do application built using React, Redux for state management and Framer motion for animations.
 
-```html
-<svg viewBox="0 0 53 38" fill="none" xmlns="http://www.w3.org/2000/svg">
-	<path
-		fill="none"
-		strokeMiterlimit="10"
-		strokeWidth="6"
-		d="M1.5 22L16 36.5L51.5 1"
-		strokeLinejoin="round"
-		strokeLinecap="round"
-	></path>
-</svg>
-```
+Functionalities in the project
+1) User can perform all CRUD operations like 
+   a) Creating a todo (Click on Add task button).
+   b) Read the list of all todos created.
+   c) Update the todo (Click on pencil icon).
+   d) Delete a todo (Click on delete icon).
+2) Dropdown to filter complete and incomplete tasks (by default All tasks is selected).
+3) Realtime date and time is also seen when the task is created.
+4) Once the task is completed click on checkbox and then that task has a strike mare on it and it will get added in complete tasks list.    
 
-## Starter files
-
-You can find all the starter files in `starter-files` branch. You can to go to the `starter-files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter-files` branch.
-
-## Getting Started
-
-The recommended way to get started with the project is Follow the `YouTube tutorial`. You will find all the step-by-step guides. Or you Can start the project on your own by following the guide below.
-
-After getting the starter files, you need to go the file directory and run
+Clone the project or download the zip file then to go the file directory and run the following commands
 
 ```shell
 npm install
@@ -35,6 +24,35 @@ and after that start the dev server.
 npm start
 ```
 
-Happy Coding! 🚀
-"# ToDoTask" 
-"# TodoApp" 
+Demo of the functionalities of the project.
+
+1) Dashboard
+
+![Dashboard](https://user-images.githubusercontent.com/30149966/172055251-03dc6252-0a65-467f-b3e5-7bc331532dbf.PNG)
+
+2) Add tasks
+
+![Add Task](https://user-images.githubusercontent.com/30149966/172055256-a1341568-df2e-478e-95c1-53d8810d1261.PNG)
+
+3) Update tasks
+
+![Update task](https://user-images.githubusercontent.com/30149966/172055296-afe4e446-76d4-4a27-9f51-1ce53faff2fc.PNG)
+
+4) Read all tasks
+
+![All task tab](https://user-images.githubusercontent.com/30149966/172055310-07b2422e-29fd-41fd-9587-9c64859bfd10.PNG)
+
+5) Delete tasks
+
+![Delete Task](https://user-images.githubusercontent.com/30149966/172055319-dd2f61dd-637f-4470-bc63-423867f7d1da.PNG)
+
+6) List of completed tasks
+
+![Completed task tab](https://user-images.githubusercontent.com/30149966/172055375-3b5ba549-c47c-4f0b-99da-8cbb76962b6f.PNG)
+
+7) List of incomplete tasks
+
+![Incomplete Task Tab](https://user-images.githubusercontent.com/30149966/172055389-6ca32a2c-b959-4d05-84b3-3511160d0159.PNG)
+
+
+
