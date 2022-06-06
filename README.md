@@ -10,7 +10,8 @@ This is a **To-Do** application built using **React**, **Redux** for state manag
    - Delete a todo (Click on **delete icon**).
 2) Dropdown to filter **complete** and **incomplete** tasks (by default **All** tasks is selected).
 3) Realtime **date and time** is also seen when the task is created.
-4) Once the task is completed click on **checkbox** and then that task has a ~~strike~~ mark on it and it will get added in complete tasks list.    
+4) Once the task is completed click on **checkbox** and then that task has a ~~strike~~ mark on it and it will get added in complete tasks list.   
+5) Added **Toaster** at the bottom of the screen to confirm if the task has been successfully created, updated or deleted. 
 
 ## Run Project in local
 
